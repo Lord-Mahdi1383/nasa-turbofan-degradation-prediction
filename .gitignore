@@ -1,0 +1,9 @@
+# Ignore data folders
+Turbofan_Engine_Degradation_Simulation_Dataset/
+*.txt
+*.zip
+
+# Ignore python cache and environment
+__pycache__/
+.ipynb_checkpoints/
+.vscode/
