@@ -1,6 +1,7 @@
 # Ignore data folders
 Turbofan_Engine_Degradation_Simulation_Dataset/
 *.txt
+!requirements.txt
 *.zip
 
 # Ignore python cache and environment
